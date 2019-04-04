@@ -1,9 +1,13 @@
 # Project template
 - name: Fantasy Stats Parser
+  link:
+  github:
   description: | # this will include new lines to allow paragraphs
     - Built a simple HTML parser in Java to help me compile useful aggregated fantasy stats by players.
     - Consistently placed top 3 out of 8 in my pools.
 
 - name: Banana Duels
+  link:
+  github:
   description: | # this will include new lines to allow paragraphs
     Hackathon project built with React Native and a small team of 4 using Expo.io that matched geographical neighbours at random to a surprise reactionary duel.

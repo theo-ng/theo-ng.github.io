@@ -15,21 +15,15 @@ linkedin_username: theo-ng-79560640
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  > "Outspoken with a quirky sense of humour. Committed to delivering high quality work and striving for excellence. I like to get to the root of a problem and solve the root cause rather than band-aid the symptoms. Good with articulating solutions to others and being user-focused with an eye for design and aesthetics."
 
 # More Section
-# more_title: Technical Summary #(Use this to override about more section title)
+more_title: Technical Summary #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - *Languages​*: JavaScript, Ruby, ​HTML5, CSS/SCSS, SQL
-  - *Methodologies*: ​Agile, Scrum, TDD, XP
-  - *Tools*: ​Git, JIRA, Visual Studio, Eclipse, Visual Studio Code
-  - *Frameworks​*: hapi.js, Express, React, Redux, Ruby on Rails
+  - **Languages​**: JavaScript, Ruby, ​HTML5, CSS/SCSS, SQL
+  - **Methodologies**: ​Agile, Scrum, TDD, XP
+  - **Tools**: ​Git, JIRA, Visual Studio, Eclipse, Visual Studio Code
+  - **Frameworks​**: hapi.js, Express, React, Redux, Ruby on Rails
 
 # Experience Section
 # experience_title: Professional Experience #(Use this to override about experience section title)
