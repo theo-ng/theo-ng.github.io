@@ -1,9 +1,24 @@
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+- company: Bananatag
+  link: bananatag.com
+  job_title: Full Stack Software Engineer
+  dates: Feb 2016 - Present
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Paired with the lead designer to architect and build a standardized ​*React*
+    component library, following Material UI design patterns.
+    *Component Library increased front-end development velocity and reduced
+    QA burden.*
+    - Led development of main application rewrite using a React / Redux frontend. Integrated with Node.js & hapi.js API backend services.
+    *New app enabled 2x revenue growth through better user retention and conversion.*
+    - Implemented an external facing API with ​*Node.js​* & *​hapi.js​* with another developer and achieved 100% test coverage with ​*Mocha* ​and *​Swagger​*.
+    - Paired with senior DevOps engineer to build a single-sign on service and launched with Google and Microsoft OAuth on top of existing JWT token authentication.
+    - Assisted senior DevOps engineer in managing company AWS services, containers, pipelines and IAMs roles and policies.
+    - *Technologies used:*​ JavaScript, Node.js, React, Redux, Webpack, MySQL, HTML, SCSS, AWS
+
+- company: ZE PowerGroup Inc
+  link: ze.com
+  job_title: Application Support Analyst (Co-op)
+  dates: Jan 2012 - Jan 2013
+  description: | # this will include new lines to allow paragraphs
+    - *Technologies used:​* JIRA, VBA, Selenium, SQL, Oracle/MSSQL databases,
+Oracle PL/SQL

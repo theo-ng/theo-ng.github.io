@@ -1,8 +1,9 @@
 # Project template
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+- name: Fantasy Stats Parser
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    - Built a simple HTML parser in Java to help me compile useful aggregated fantasy stats by players.
+    - Consistently placed top 3 out of 8 in my pools.
+
+- name: Banana Duels
+  description: | # this will include new lines to allow paragraphs
+    Hackathon project built with React Native and a small team of 4 using Expo.io that matched geographical neighbours at random to a surprise reactionary duel.
